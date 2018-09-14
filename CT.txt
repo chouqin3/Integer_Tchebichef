@@ -1,0 +1,50 @@
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\1.png
+2.797	2.463	
+2.378	2.084	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\2.png
+3.407	3.036	
+3.082	2.557	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\3.png
+4.004	3.789	
+3.625	3.335	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\4.png
+3.214	3.333	
+2.791	2.549	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\5.png
+4.187	4.219	
+3.101	2.916	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\6.png
+3.394	3.305	
+2.514	2.341	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\7.png
+4.415	3.967	
+3.131	2.881	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\8.png
+3.235	2.282	
+1.658	1.503	
+
+
+%%bmp Í¼ÏñE:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\bmp¸ñÊ½\1.bmp
+1.538	0.639	
+0.119	0.122	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\bmp¸ñÊ½\2.bmp
+0.487	0.441	
+0.157	0.162	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\bmp¸ñÊ½\3.bmp
+0.312	0.314	
+0.061	0.060	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\bmp¸ñÊ½\4.bmp
+0.313	0.302	
+0.051	0.052	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\bmp¸ñÊ½\5.bmp
+0.305	0.314	
+0.054	0.054	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\bmp¸ñÊ½\6.bmp
+0.319	0.330	
+0.053	0.055	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\bmp¸ñÊ½\7.bmp
+0.288	0.283	
+0.044	0.044	
+E:\SHINE\SHINE\¾­µäÍ¼Æ¬\Testing images\CT new\CT\bmp¸ñÊ½\8.bmp
+0.285	0.282	
+0.042	0.042	
